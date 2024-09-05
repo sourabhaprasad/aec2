@@ -4,8 +4,6 @@
 - [Sentiment Analysis of COVID-19 Tweets](#sentiment-analysis-of-covid-19-tweets)
 - [Sentiment Analysis of Airline Tweets](#sentiment-analysis-of-airline-tweets)
 
-<hr>
-
 ## Resume Screening using Machine Learning
 
 This project implements a resume screening system using machine learning techniques to classify resumes into distinct categories based on their content. The goal is to automate and streamline the resume review process, making it easier to categorize candidates by their skills and experience.
