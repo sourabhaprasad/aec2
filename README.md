@@ -93,3 +93,15 @@ The dataset used is a CSV file containing airline-related tweets with the follow
 ### Model and Evaluation
 
 The Random Forest classifier was trained on 80% of the dataset and tested on the remaining 20%. The accuracy of the model is approximately **25.4%**, with the classification performance visualized using a confusion matrix.
+
+
+
+https://colab.research.google.com/drive/15AqF_u47wxvstAYzTHNBt9D8VqmH6Tbn?usp=sharing → Classification
+
+https://colab.research.google.com/drive/1rxkAmfjZ8CJW4PQLazUNUWCuMuTMgn49?usp=sharing → ANN
+
+https://colab.research.google.com/drive/1SEy320gzI7NgBqD3qBQwPgVYqRQQNBdJ?usp=sharing → Regression 
+
+https://colab.research.google.com/drive/1ezW8Qa3bVPaxXkGT0gIstDQb-aAdx7Sg?usp=sharing → XOR
+
+https://colab.research.google.com/drive/1FTYKdmtnvdBM0rIWVamlOxFjdvwGT4Bs?usp=sharing → MNSIT
